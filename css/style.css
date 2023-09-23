@@ -368,16 +368,17 @@ border-top: none;
 /* Footer */
 
 .footer {
-
+  padding: 100px 0 100px;
 }
 
 .footer-container {
-  padding: 100px 100px 156px;
+ 
 flex-shrink: 0;
   background: var(--NAVY-BLUE, #2E2F42);
 }
 
 .footer-logo{
+display: inline-block;  
 font-family: "Raleway", sans-serif;
 color: #4d5ae5;
 font-size: 18px;
@@ -385,7 +386,7 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-margin-bottom: 17px;
+margin-bottom: 16px;
 } 
 
 .footer-logo-part {
