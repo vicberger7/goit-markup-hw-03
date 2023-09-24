@@ -103,7 +103,6 @@ color: #2e2f42;
 
 .header-menu-list {
   margin-right: 100px;
-  padding: 24px 0;
 }
 
 .header-menu-item-studio {
@@ -112,6 +111,7 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
+padding: 24p 0;
 }
 
 .header-menu-item-studio:hover {
@@ -127,6 +127,7 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
+padding: 24px 0;
 }
 
 .header-menu-link:hover {
