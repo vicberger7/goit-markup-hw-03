@@ -272,9 +272,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 margin: 0 auto;
-margin-bottom: 70px;
-
-
+margin-bottom: 72px;
 }
 
 .team-list {
@@ -295,8 +293,7 @@ margin-bottom: 70px;
 .name-pos {
   padding-top: 32px;
   padding-bottom: 32px;
-  
-background: var(--WHITE, #FFF);
+  background: var(--WHITE, #FFF);
 box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
@@ -306,7 +303,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
-margin-bottom: 72px; 
+margin-bottom: 8px; 
 }
 
 .team-position {
