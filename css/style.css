@@ -98,16 +98,16 @@ color: #2e2f42;
 .header-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 
 }
 
 .header-menu-list {
   margin-right: 100px;
+  padding: 24px 0;
 }
 
 .header-menu-item-studio {
-  color: var(--NAVY-BLUE, #2E2F42);
+color: var(--NAVY-BLUE, #2E2F42);
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5; 
@@ -140,6 +140,11 @@ color: #404BBF;
 .header-social {
   display: flex;
   font-style: normal;
+  gap: 40px;
+}
+
+.header-social-list {
+  display: flex;
   gap: 40px;
 }
 
