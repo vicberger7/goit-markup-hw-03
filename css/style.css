@@ -234,7 +234,7 @@ background-color: #404BBF;
 }
 
 .features-item {
-  width: calc((100% - 24px * 3) / 4);
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .features-subtitles {
