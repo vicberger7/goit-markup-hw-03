@@ -75,7 +75,6 @@ img {
   flex-grow: 1;
   gap: 76px;
   align-items: center;
-
 }
 
 .header-logo {
@@ -321,6 +320,7 @@ letter-spacing: 0.02em;
 
 .portfolio {
   padding-top: 120px;
+  padding-bottom: 120px;
 
 }
 
@@ -338,6 +338,7 @@ margin-bottom: 72px;
 .portfolio-list {
   display: flex;
   gap: 24px;
+  row-gap: 48px;
   flex-wrap: wrap;
 }
 
@@ -350,10 +351,10 @@ margin-bottom: 72px;
 }
 
 .port-serv-descr {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top: 32px 16px;
   border: 1px solid var(--CORNFLOWER, #E7E9FC);
 background: var(--WHITE, #FFF);
+border-top: none;
 }
 
 .portfolio-service {
@@ -362,6 +363,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
+margin-bottom: 8px;
 
 }
 
